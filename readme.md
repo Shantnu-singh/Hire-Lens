@@ -26,7 +26,7 @@ HireLens is an intelligent resume analysis tool that leverages AI to provide com
 
 1. Clone the repository:
 ```bash
-git https://github.com/Shantnu-singh/Hire-Lens
+git clone https://github.com/Shantnu-singh/Hire-Lens
 cd app
 ```
 
